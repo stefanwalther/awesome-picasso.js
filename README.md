@@ -3,13 +3,12 @@
 A collection of awesome resources related to several Qlik Sense integration topics resp. Qlik Analytics Platform (QAP) topics. Inspired by [awesome lists](https://github.com/sindresorhus/awesome).
 
 - **Topics**
-
-- [Official Resources](#official-resources)
-- [Solutions & Demos](#solutions---demos)
-- [Chart Types](#chart-types)
-- [Tooliing](#tooling)
-- [Experts to follow](#experts-to-follow)
-- [License](#license)
+  - [Official Resources](#official-resources)
+  - [Solutions & Demos](#solutions---demos)
+  - [Chart Types](#chart-types)
+  - [Tooliing](#tooling)
+  - [Experts to follow](#experts-to-follow)
+  - [License](#license)
 
 
 ---
