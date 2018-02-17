@@ -4,9 +4,9 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 
 - **Topics**
   - [Official Resources](#official-resources)
-  - [Solutions & Demos](#solutions---demos)
+  - [Solutions & Demos](#solutions--demos)
   - [Chart Types](#chart-types)
-  - [Tooliing](#tooling)
+  - [Tooling](#tooling)
   - [Experts to follow](#experts-to-follow)
   - [License](#license)
 
@@ -26,7 +26,7 @@ Official resources from Qlik
 
 Solutions build on top of picasso.js
 
-## Charts
+## Chart Types
 
 picasso.js definitions for different chart types:
 
