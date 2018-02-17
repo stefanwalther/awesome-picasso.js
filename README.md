@@ -18,9 +18,9 @@ A collection of awesome resources related to several Qlik Sense integration topi
 Official resources from Qlik
 
 - [picasso.js](https://github.com/qlik-oss/picasso.js) - Official open source repo for picasso.js.
-- [picasso.js documentation](https://picassojs.com/) - The official picasso.js documentation.
-- [picasso.js tutorials](https://picassojs.com/docs/tutorial.html) - The official picasso.js tutorials.
-- [picasso.js examples](https://picassojs.com/examples.html) - The official picasso.js examples.
+- [picasso.js Documentation](https://picassojs.com/) - The official picasso.js documentation.
+- [picasso.js Tutorials](https://picassojs.com/docs/tutorial.html) - The official picasso.js tutorials.
+- [picasso.js Examples](https://picassojs.com/examples.html) - The official picasso.js examples.
 
 ## Solutions & Demos
 
