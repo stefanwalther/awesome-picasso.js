@@ -18,6 +18,8 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 
 <br/>
 
+# Table of Contents
+
 - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Solutions & Demos](#solutions--demos)
