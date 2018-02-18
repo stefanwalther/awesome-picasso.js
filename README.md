@@ -9,6 +9,13 @@
 	<br>
 </h1>
 
+<p align="center">
+	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br/>
+
 
 A collection of awesome resources related to [picasso.js](https://picassojs.com).
 
