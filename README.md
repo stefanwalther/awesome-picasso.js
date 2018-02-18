@@ -3,9 +3,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/stefanwalther/awesome-picasso.js)
 
-A collection of awesome resources related to [picasso.js](https://picassojs.com)
+A collection of awesome resources related to [picasso.js](https://picassojs.com).
 
-- [Topics](#topics)
+- [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Solutions & Demos](#solutions--demos)
   - [Chart Types](#chart-types)
@@ -17,7 +17,7 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 
 ---
 
-# Topics 
+# Contents 
 ## Official Resources
 
 Official resources from Qlik
