@@ -1,13 +1,14 @@
 # Awesome picasso.js
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/stefanwalther/awesome-picasso.js)
+
 <h1 align="center">
 	<img width="400" src="https://cdn.rawgit.com/stefanwalther/awesome-picasso.js/master/media/awesome-picasso.js.png" alt="Awesome picasso.js">
 	<br>
 	<br>
 </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/stefanwalther/awesome-picasso.js)
 
 A collection of awesome resources related to [picasso.js](https://picassojs.com).
 
