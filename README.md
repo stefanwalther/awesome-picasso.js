@@ -124,7 +124,7 @@ Some picasso.js experts & resources you should definitely follow:
 # Contributing
 
 Contributions are not only always welcome but the entire idea behind this list!  
-**There is no need to
+**There is no need to install any tool, to understand git, just use your browser!**
 
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
