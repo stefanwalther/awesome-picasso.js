@@ -47,9 +47,22 @@ You'll need a [GitHub account](https://github.com/join)!
 
 
 
-5. Say why you're proposing the changes, and then click on "Commit changes":
+5. Say why you're proposing the changes, and then click on "Propose file change":
+
+- Make sure that you add a descriptive subject of what you have added
+
+
+![Step 5 - Propose file change](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-5-propose-file-change.png)
+
+
 
 6. Submit the [pull request](https://help.github.com/articles/about-pull-requests/)!
+
+![Step 6 - Start Pull Request](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-6-create-pull-request.png)  
+
+![Step 5 - Confirm Pull Request](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-6-create-pull-request-2.png)
+
+
 
 ## Updating your Pull Request
 

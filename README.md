@@ -46,7 +46,7 @@ Solutions build on top of picasso.js
 
 ## Chart Types
 
-picasso.js definitions for different chart types:
+picasso.js definitions & examples for different chart types:
 
 ### General
 
