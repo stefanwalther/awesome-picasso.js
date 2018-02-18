@@ -27,16 +27,32 @@ If you have something awesome to contribute to an awesome list, this is how you 
 You'll need a [GitHub account](https://github.com/join)!
 
 1. Access the awesome list's GitHub page. For example: stefanwalther/awesome
+
+
 2. Click on the `README.md` file:
 
 ![Step 2 Click on Readme.md](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-2-readme.png)
+
+
 
 3. Now click on the edit icon.
 
 ![Step 3 - Click on Edit Icon](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-3-edit-icon.png)
 
+
+
 4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
 
 ![Step 4 - Make Changes](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-4-make-changes.png)
 
+
+
 5. Say why you're proposing the changes, and then click on "Commit changes":
+
+6. Submit the [pull request](https://help.github.com/articles/about-pull-requests/)!
+
+## Updating your Pull Request
+
+Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+
+[Here is a write up](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on how to change a Pull Request, and the different ways you can do that.
