@@ -3,21 +3,21 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/stefanwalther/awesome-picasso.js)
 
+A collection of awesome resources related to [picasso.js](https://picassojs.com).
+
 <h1 align="center">
-	<img width="600" src="https://cdn.rawgit.com/stefanwalther/awesome-picasso.js/master/media/awesome-picasso.js.png" alt="Awesome picasso.js">
+	<img width="800" src="https://cdn.rawgit.com/stefanwalther/awesome-picasso.js/master/media/awesome-picasso.js.png" alt="Awesome picasso.js">
 	<br>
 	<br>
 </h1>
 
 <p align="center">
-	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="CONTRIBUTING.md">Contribution guide</a>, just use your browser ... so easy ...
 </p>
 
 <br/>
 
-
-A collection of awesome resources related to [picasso.js](https://picassojs.com).
+# Table of Contents
 
 - [Contents](#contents)
   - [Official Resources](#official-resources)
@@ -25,11 +25,10 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
   - [Chart Types](#chart-types)
   - [Tooling](#tooling)
   - [Experts to follow](#experts-to-follow)
+- [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
 
-
----
 
 # Contents 
 ## Official Resources
@@ -47,7 +46,7 @@ Solutions build on top of picasso.js
 
 ## Chart Types
 
-picasso.js definitions for different chart types:
+picasso.js definitions & examples for different chart types:
 
 ### General
 
@@ -121,11 +120,14 @@ Some picasso.js experts & resources you should definitely follow:
 - [Miralem Drek on Twitter](https://twitter.com/mm85dk) - Miralem Drek, the master-mind behind picasso.js.
 - [Speros Kokenes on Twitter](https://twitter.com/sperosck) - Speros Kokenes, a Qlik guru now starting to adopt picasso.js.
 
+# Related Awesome Lists
+
+- [awesome-qap](https://github.com/stefanwalther/awesome-qap) - Qlik Analytics Platform (QAP) / Integration topics
 
 # Contributing
 
 Contributions are not only always welcome but the entire idea behind this list!  
-**There is no need to
+**There is no need to install any tool, to understand git, just use your browser!**
 
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
