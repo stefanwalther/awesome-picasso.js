@@ -12,7 +12,7 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 </h1>
 
 <p align="center">
-	<a href="CONTRIBUTING.md">Contribution guide, just use your browser</a>&nbsp;&nbsp;&nbsp;
+	<a href="CONTRIBUTING.md">Contribution guide</a>, just use your browser ... so easy ...
 </p>
 
 <br/>
