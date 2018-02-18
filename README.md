@@ -30,8 +30,6 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 - [License](#license)
 
 
----
-
 # Contents 
 ## Official Resources
 
