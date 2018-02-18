@@ -29,9 +29,14 @@ You'll need a [GitHub account](https://github.com/join)!
 1. Access the awesome list's GitHub page. For example: stefanwalther/awesome
 2. Click on the `README.md` file:
 
-![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+![Step 2 Click on Readme.md](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-2-readme.png)
 
 3. Now click on the edit icon.
 
-![Step 3 - Click on Edit Icon](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+![Step 3 - Click on Edit Icon](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-3-edit-icon.png)
 
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
+
+![Step 4 - Make Changes](https://raw.githubusercontent.com/stefanwalther/awesome-picasso.js/formatting/media/how-to-contribute/step-4-make-changes.png)
+
+5. Say why you're proposing the changes, and then click on "Commit changes":
