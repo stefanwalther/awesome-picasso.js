@@ -1,5 +1,11 @@
 # Awesome picasso.js
 
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/stefanwalther/awesome-picasso.js/master/media/awesome-picasso.js.png" alt="Awesome picasso.js">
+	<br>
+	<br>
+</h1>
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![CircleCI](https://img.shields.io/circleci/project/github/RedSparr0w/node-csgo-parser.svg)](https://github.com/stefanwalther/awesome-picasso.js)
 
@@ -110,7 +116,8 @@ Some picasso.js experts & resources you should definitely follow:
 
 # Contributing
 
-Contributions are not only always welcome but the entire idea behind this list!
+Contributions are not only always welcome but the entire idea behind this list!  
+**There is no need to
 
 Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
 
