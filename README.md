@@ -5,17 +5,19 @@
 
 A collection of awesome resources related to [picasso.js](https://picassojs.com)
 
-- **Topics**
+- [Topics](#topics)
   - [Official Resources](#official-resources)
   - [Solutions & Demos](#solutions--demos)
   - [Chart Types](#chart-types)
   - [Tooling](#tooling)
   - [Experts to follow](#experts-to-follow)
-  - [License](#license)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ---
 
+# Topics 
 ## Official Resources
 
 Official resources from Qlik
@@ -105,7 +107,14 @@ Some picasso.js experts & resources you should definitely follow:
 - [Miralem Drek on Twitter](https://twitter.com/mm85dk) - Miralem Drek, the master-mind behind picasso.js.
 - [Speros Kokenes on Twitter](https://twitter.com/sperosck) - Speros Kokenes, a Qlik guru now starting to adopt picasso.js.
 
-## License
+
+# Contributing
+
+Contributions are not only always welcome but the entire idea behind this list!
+
+Please take a look at the [contribution guidelines and quality standard](CONTRIBUTING.md) page first.
+
+# License
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
