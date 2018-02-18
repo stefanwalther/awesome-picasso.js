@@ -110,7 +110,7 @@ picasso.js definitions & examples for different chart types:
 
 ## Tooling
 
-Tooling based on picasso.js
+Tooling for on picasso.js
 
 - [Igniter](https://github.com/JoseHervas/igniter) - Qlik Mashup boilerplate with ReactJS, Leonardo UI, enigma.js and picasso.js.
 
