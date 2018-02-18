@@ -5,7 +5,7 @@
 * Keep descriptions concise, clear and simple.
 * New categories, or improvements to the existing ones are also welcome.
 
-## Quality standard
+## Quality Standard
 
 To stay on the list, projects should follow these quality standards:
 
@@ -18,15 +18,15 @@ Thanks to all [contributors](https://github.com/stefanwalther/awesome-picasso.js
 
 # How to Contribute?
 
-Contributing is easy, no need to install anything, just use your browser.
+Contributing is **easy**, **no need to install anything**, **just use your browser**.
 
-## Adding something to this awesome list
+## Adding Something to any Awesome List
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
 You'll need a [GitHub account](https://github.com/join)!
 
-1. Access the awesome list's GitHub page. For example: stefanwalther/awesome
+1. Access the awesome list's GitHub page. For example: [stefanwalther/awesome-picasso.js](https://github.com/stefanwalther/awesome-picasso.js).
 
 
 2. Click on the `README.md` file:
