@@ -21,6 +21,7 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 
 - [Contents](#contents)
   - [Official Resources](#official-resources)
+  - [Tutorials](#tutorials)
   - [Solutions & Demos](#solutions--demos)
   - [Chart Types](#chart-types)
   - [Features](#features)
@@ -44,6 +45,10 @@ Official resources from Qlik
 ## Solutions & Demos
 
 Solutions build on top of picasso.js
+
+## Tutorials
+
+- [picasso.js Introduction](https://beta.observablehq.com/@mindspank/picasso-js-introduction) - Introduction to picasso.js
 
 ## Chart Types
 
