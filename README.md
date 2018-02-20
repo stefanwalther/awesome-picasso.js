@@ -107,6 +107,7 @@ picasso.js definitions & examples for different chart types:
 
 - [Collection navigator](https://beta.observablehq.com/@miralemd/collection-navigator) - Collection navigator.
 - [picasso.js with Qlik Selections](https://beta.observablehq.com/@skokenes/picasso-js-with-qlik-selections) - Bringing picasso.js and Qlik selections together.
+- [Custom Tooltip Component](https://beta.observablehq.com/@cbt1/picasso-js-creating-your-own-tooltip-component) - Create your own tooltip component.
 
 ## Tooling
 
