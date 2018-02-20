@@ -62,6 +62,7 @@ picasso.js definitions & examples for different chart types:
 ### Bar Charts
 
 - [Bar Chart](https://beta.observablehq.com/@miralemd/picasso-js-bar-chart) - Basic bar chart.
+- [Bar Chart using CSV](https://beta.observablehq.com/@carlhannes/create-a-bar-chart-using-picasso-js-and-csv-data) - Create a bar chart using picasso.js & CSV data.
 - [Stacked Bar Chart](https://beta.observablehq.com/@miralemd/picasso-js-stacked-bar-chart) - Stacked bar chart.
 
 ### Bullet Graphs
