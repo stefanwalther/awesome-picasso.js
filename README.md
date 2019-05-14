@@ -56,7 +56,7 @@ picasso.js definitions & examples for different chart types:
 
 ### General
 
-- [Chart Collection](https://beta.observablehq.com/@miralemd/picasso-js-chart-collection) - picasso.js chart collection.
+- [Chart Collection](https://observablehq.com/collection/@miralemd/picasso-js) - picasso.js chart collection.
 
 ### Area Charts
 
