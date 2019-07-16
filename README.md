@@ -121,6 +121,7 @@ picasso.js definitions & examples for different chart types:
 Tooling for on picasso.js
 
 - [Igniter](https://github.com/JoseHervas/igniter) - Qlik Mashup boilerplate with ReactJS, Leonardo UI, enigma.js and picasso.js.
+- [picassojs.studio](https://picassojs.studio) - Live editor/playground/sandbox using picasso.js
 
 ## Experts to Follow
 
