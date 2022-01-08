@@ -1,0 +1,20 @@
+name: Check links in README.md
+
+on:
+  pull_request:
+    branches: [ '*' ]
+  push:
+    branches: [ '*' ]
+
+jobs:
+  test:
+    name: awesome_bot verification
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v1
+      - name: Run awesome_bot
+        uses: docker://dkhamsing/awesome_bot:latest
+        with:
+          args: README.md --allow-dupe --request-delay 1 --allow-redirect
