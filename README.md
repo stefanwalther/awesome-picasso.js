@@ -1,7 +1,6 @@
 # Awesome picasso.js
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![CircleCI](https://img.shields.io/circleci/project/github/stefanwalther/awesome-picasso.js.svg)](https://circleci.com/gh/stefanwalther/awesome-picasso.js)
 
 A collection of awesome resources related to [picasso.js](https://picassojs.com).
 
@@ -38,9 +37,8 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 Official resources from Qlik
 
 - [picasso.js](https://github.com/qlik-oss/picasso.js) - Official open source repo for picasso.js.
-- [picasso.js Documentation](https://picassojs.com/) - The official picasso.js documentation.
-- [picasso.js Tutorials](https://picassojs.com/docs/tutorial.html) - The official picasso.js tutorials.
-- [picasso.js Examples](https://picassojs.com/examples.html) - The official picasso.js examples.
+- [picasso.js Documentation](https://qlik.dev/libraries-and-tools/picassojs/) - The official picasso.js documentation.
+- [picasso.js Examples](https://qlik.dev/libraries-and-tools/picassojs/examples) - The official picasso.js examples.
 
 ## Solutions & Demos
 
