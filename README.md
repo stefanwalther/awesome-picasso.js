@@ -38,9 +38,8 @@ A collection of awesome resources related to [picasso.js](https://picassojs.com)
 Official resources from Qlik
 
 - [picasso.js](https://github.com/qlik-oss/picasso.js) - Official open source repo for picasso.js.
-- [picasso.js Documentation](https://picassojs.com/) - The official picasso.js documentation.
-- [picasso.js Tutorials](https://picassojs.com/docs/tutorial.html) - The official picasso.js tutorials.
-- [picasso.js Examples](https://picassojs.com/examples.html) - The official picasso.js examples.
+- [picasso.js Documentation](https://qlik.dev/libraries-and-tools/picassojs/) - The official picasso.js documentation.
+- [picasso.js Examples](https://qlik.dev/libraries-and-tools/picassojs/examples) - The official picasso.js examples.
 
 ## Solutions & Demos
 
